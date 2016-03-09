@@ -1,0 +1,17 @@
+{
+    "name": "currencyconverterxml.liu-xiao-guo",
+    "description": "description of CurrencyConverterXml",
+    "architecture": "all",
+    "title": "CurrencyConverterXml",
+    "hooks": {
+        "CurrencyConverter": {
+            "apparmor": "CurrencyConverter.apparmor",
+            "desktop":  "CurrencyConverter.desktop"
+        }
+    },
+    "version": "0.1",
+    "maintainer": "XiaoGuo, Liu <xiaoguo.liu@canonical.com>",
+    "framework" : "ubuntu-sdk-14.10"
+}
+
+
